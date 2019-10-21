@@ -1,0 +1,37 @@
+# Información del Grupo Nº [04] - [2W2]
+
+
+## Nombre del Grupo :zap:
+
+* IT Solutions
+
+
+## Integrantes :busts_in_silhouette:
+
+| Legajo| Apellidos Nombres  | Cuenta GitHub | Linkedin
+| :------: | :-------- | :-------- | :-------- |
+| 104822 | Revol, Eugenia |[UsuarioGitHub](https://github.com/erevol)|[UserLinkedin](https://www.linkedin.com/in/eugeniarevol/)|
+
+
+# Checklist de estado de actividad
+
+## Pecha Kucha :clipboard:
+
+### Primera Presentacion
+
+- [x] Entrega archivo ppt
+- [x] Entrega link del video
+
+### Segunda Presentacion
+
+- [ ] Entrega archivo ppt
+- [ ] Entrega link del video
+
+## Trabajo Practico Entregas :clipboard:
+- [x] Entrega Primera Parte
+- [x] Entrega Segunda Parte
+- [ ] Entrega Tercera Parte
+- [ ] Entrega Cuarta Parte
+
+## Trello :clipboard:
+- [ ] Capturas del tablero de Trello

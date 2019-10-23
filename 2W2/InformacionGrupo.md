@@ -10,6 +10,7 @@
 
 | Legajo| Apellidos Nombres  | Cuenta GitHub | Linkedin
 | :------: | :-------- | :-------- | :-------- |
+| 110143 | Gonzalez, Jesica |[UsuarioGitHub](https://github.com/jesidg13)|[UserLinkedin](https://www.linkedin.com/in/jesica-daniela-gonzalez/)|
 | 104822 | Revol, Eugenia |[UsuarioGitHub](https://github.com/erevol)|[UserLinkedin](https://www.linkedin.com/in/eugeniarevol/)|
 
 

@@ -12,7 +12,7 @@
 | :------: | :-------- | :-------- | :-------- |
 | 110143 | Gonzalez, Jesica |[UsuarioGitHub](https://github.com/jesidg13)|[UserLinkedin](https://www.linkedin.com/in/jesica-daniela-gonzalez/)|
 | 104822 | Revol, Eugenia |[UsuarioGitHub](https://github.com/erevol)|[UserLinkedin](https://www.linkedin.com/in/eugeniarevol/)|
-
+| 110176 | Stocco, Gabriela |[UsuarioGitHub](https://github.com/gaenima)|[UserLinkedin](https://www.linkedin.com/in/gabriela-stocco-004a27b1/)|
 
 # Checklist de estado de actividad
 

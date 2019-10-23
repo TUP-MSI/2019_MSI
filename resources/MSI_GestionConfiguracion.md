@@ -10,8 +10,8 @@
 
 | Nombre | Descripción	| 
 | :------:| :--------  |
-| [2019-MSI-2W1](https://github.com/UTN-TUP-MSI/2019_MSI/tree/master/2019-MSI-2W1) | Curso 2W1 - Turno Mañana |
-| [2019-MSI-2W2](https://github.com/UTN-TUP-MSI/2019_MSI/tree/master/2019-MSI-2W2) | Curso 2W2 - Turno Noche |
+| [2W1](https://github.com/UTN-TUP-MSI/2019_MSI/tree/master/2W1) | Curso 2W1 - Turno Mañana |
+| [2W2](https://github.com/UTN-TUP-MSI/2019_MSI/tree/master/2W2) | Curso 2W2 - Turno Noche |
 
 <p align="justify">Para el control de versiones se proponen las siguientes pautas:</p>
 

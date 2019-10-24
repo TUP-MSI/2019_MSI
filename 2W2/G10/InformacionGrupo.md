@@ -11,7 +11,7 @@
 | Legajo| Apellidos Nombres  | Cuenta GitHub | Linkedin
 | :------: | :-------- | :-------- | :-------- |
 | 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
-| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
+| 109594 | Osmerini, Mario Andres |[UsuarioGitHub](https://github.com/Mariosme)|[UserLinkedin](https://ar.linkedin.com/mario-osmerini-7187b0192)|
 | 109780 | Rosas, Iván Facundo |[UsuarioGitHub](https://github.com/IvanFFRR)|[UserLinkedin](https://www.linkedin.com/in/ivanfrosas/)|
 | 111111 | Weihmuller, Jorge Ricardo |[UsuarioGitHub](https://github.com/joriwe)|[UserLinkedin](https://ar.linkedin.com/)|
 

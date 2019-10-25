@@ -12,7 +12,7 @@
 | 109698 | Wisgikl Hessling, Lucas | [LucasWis](https://github.com/LucasWis)|[LucasWis](https://www.linkedin.com/in/lucas-wisgikl-3bb13a13b)|
 | 110173 | Lobo Giuliano Augusto |[GiulianoLobo](https://github.com/GiulianoLobo)|[GiulianoLobo](https://www.linkedin.com/in/giuliano-lobo-733315117/)|
 | 110200 | Orodá Brian Alejandro |[BraianOroda](https://github.com/BraianOroda)|[BraianOroda](https://www.linkedin.com/in/braian-oroda-17616b12a/)|
-| 110200 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
+| 110174 | Pugni Andrés Oscar |[apugni](https://github.com/apugni)|[UserLinkedin](https://www.linkedin.com/in/andres-pugni-a0a4182a/)|
 
 # Checklist de estado de actividad
 

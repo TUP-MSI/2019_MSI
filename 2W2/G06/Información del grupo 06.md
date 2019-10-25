@@ -10,8 +10,7 @@
 | :------: | :-------- | :-------- | :-------- |
 | 108880 | Camussi, Carlos Ezequiel |[CodeVicium](https://github.com/CodeVicium)|[EzequielCamussi](https://www.linkedin.com/in/ezequiel-camussi-584620172/)|
 | 109698 | Wisgikl Hessling, Lucas | [LucasWis](https://github.com/LucasWis)|[LucasWis](https://www.linkedin.com/in/lucas-wisgikl-3bb13a13b)|
-| 110173 | Lobo Giuliano
-Augusto |[GiulianoLobo](https://github.com/GiulianoLobo)|[GiulianoLobo](https://www.linkedin.com/in/giuliano-lobo-733315117/)|
+| 110173 | Lobo Giuliano Augusto |[GiulianoLobo](https://github.com/GiulianoLobo)|[GiulianoLobo](https://www.linkedin.com/in/giuliano-lobo-733315117/)|
 | 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
 
 

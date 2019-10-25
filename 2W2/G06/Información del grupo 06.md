@@ -1,9 +1,7 @@
-# Información del Grupo Nº [< GRUPO>] - [< CURSO>]
+# Información del Grupo Nº 06 - 2W2
 
 
-## Nombre del Grupo :zap:
-
-* [Nombre del grupo: Utilicen un alias o nombre trivial que los identifique. Recuerden que estamos en el ámbito universitario, por lo cual deberán tener en cuenta que el mismo no sea ofensivo, etc.]
+## Nombre del Grupo Bugbugsters
 
 
 ## Integrantes :busts_in_silhouette:
@@ -11,7 +9,7 @@
 | Legajo| Apellidos Nombres  | Cuenta GitHub | Linkedin
 | :------: | :-------- | :-------- | :-------- |
 | 108880 | Camussi, Carlos Ezequiel |[CodeVicium](https://github.com/CodeVicium)|[EzequielCamussi](https://www.linkedin.com/in/ezequiel-camussi-584620172/)|
-| 109698 | Wisgikl Hessling Lucas | [LucasWis](https://github.com/LucasWis)|[LucasWis](https://www.linkedin.com/in/lucas-wisgikl-3bb13a13b)|
+| 109698 | Wisgikl Hessling, Lucas | [LucasWis](https://github.com/LucasWis)|[LucasWis](https://www.linkedin.com/in/lucas-wisgikl-3bb13a13b)|
 | 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
 | 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
 
@@ -20,6 +18,7 @@
 
 ## Pecha Kucha :clipboard:
 - [ ] Entrega archivo ppt
+
 - [ ] Entrega link del video
 
 ## Trabajo Practico Entregas :clipboard:

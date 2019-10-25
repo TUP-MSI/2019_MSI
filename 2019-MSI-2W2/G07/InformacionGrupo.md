@@ -7,7 +7,7 @@
 
 | Legajo| Apellidos Nombres  | Cuenta GitHub | Linkedin
 | :------: | :-------- | :-------- | :-------- |
-| 109177 | Gutierrez, Ignacio |[UsuarioGitHub](https://github.com/IgnachoGutierrez)|[UserLinkedin](https://ar.linkedin.com/in/ignacio-gutierrez-3b7031171)|
+| 109177 | Gutierrez, Ignacio |[IgnachoGutierrez](https://github.com/IgnachoGutierrez)|[Ignacio Gutierrez](https://ar.linkedin.com/in/ignacio-gutierrez-3b7031171)|
 | 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
 | 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
 | 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|

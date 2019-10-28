@@ -12,6 +12,9 @@
 | :------: | :-------- | :-------- | :-------- |
 | 110495 | Casor, Hernan  |[UsuarioGitHub](https://github.com/HernanCasor)|[UserLinkedin](https://www.linkedin.com/in/hernan-casor-98280b196/)|
 | 110498 | Daniele, Lucas Gabriel  |[UsuarioGitHub](https://github.com/HernanCasor)|[UserLinkedin](https://www.linkedin.com/in/hernan-casor-98280b196/)|
+| 110370 |  Mauricio, Daniel Avram  |[UsuarioGitHub](https://github.com/HernanCasor)|[UserLinkedin](https://www.linkedin.com/in/hernan-casor-98280b196/)|
+| 110381  | Licera, Juan Pablo  |[UsuarioGitHub](https://github.com/LiceraJuan)|[UserLinkedin](https://www.linkedin.com/in/hernan-casor-98280b196/)|
+
 
 
 

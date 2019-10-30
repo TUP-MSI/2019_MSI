@@ -8,4 +8,5 @@ Para otras consultas contactarse con cualquier miembro del equipo (contacto en e
 
 ## Links de interés :mag_right:
 Trello del Trabajo Práctico Integrador: [Festival "Suquía"](https://trello.com/b/N7IHme3Q/proyecto-festival-suquia)
+
 Información del Grupo: [Info del Grupo](https://github.com/nahuelcanchy/2019_MSI/edit/BRANCH_2W1_G05_TPI/2W1/G05/InformacionGrupo.md)

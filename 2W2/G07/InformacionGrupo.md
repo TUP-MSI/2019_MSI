@@ -1,4 +1,4 @@
-# Información del Grupo Nº [07] - [2W2]
+﻿# Información del Grupo Nº [07] - [2W2]
 
 
 ## Agentes 007 :zap:
@@ -11,7 +11,7 @@
 | 110142 | Romero, Pablo Elías |[PabloRomero77](https://github.com/PabloRomero77)|[Pablo Romero](https://www.linkedin.com/in/pablo-romero-b7949017b)|
 | 110575 | Gonzalez, Micaela Andrea |[MicaelaGonzalez](https://github.com/MicaelaGonzalez)|[Micaela Gonzalez](https://www.linkedin.com/in/micaela-andrea-gonzalez-31b137188/)|
 | 109134 | Todesco, Eddie Fernando |[FernandoTodesco](https://github.com/FernandoTodesco)|[Fernando Todesco](https://www.linkedin.com/in/fernando-todesco/)|
-| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
+| 106806 | Castillo, Pablo Sebastian |[PaulCastle](https://github.com/Pablitoeldiez)|[UserLinkedin](https://ar.linkedin.com/)|
 
 
 # Checklist de estado de actividad

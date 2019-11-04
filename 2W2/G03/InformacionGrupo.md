@@ -11,7 +11,7 @@
 | Legajo| Apellidos Nombres  | Cuenta GitHub | Linkedin
 | :------: | :-------- | :-------- | :-------- |
 | 109578 | Brito, Damian |[UsuarioGitHub](https://github.com/damianbrito)|[UserLinkedin]|
-
+| 109727 | Bertone,Milton |[UsuarioGitHub](https://github.com/AlterDrop)|[https://www.linkedin.com/in/milton-bertone-157004152/|
 
 # Checklist de estado de actividad
 

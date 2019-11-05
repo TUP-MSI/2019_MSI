@@ -12,7 +12,7 @@
 | :------: | :-------- | :-------- | :-------- |
 | 109578 | Brito, Damian |[UsuarioGitHub](https://github.com/damianbrito)|[UserLinkedin]|
 | 109727 | Bertone,Milton |[UsuarioGitHub](https://github.com/AlterDrop)|[https://www.linkedin.com/in/milton-bertone-157004152/|
-
+| 109726 | Bottero, Nicolás |[UsuarioGitHub](https://github.com/zer0cool28)|[UserLinkedin]|
 # Checklist de estado de actividad
 
 ## Pecha Kucha :clipboard:

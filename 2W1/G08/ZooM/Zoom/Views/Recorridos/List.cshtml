@@ -1,0 +1,46 @@
+﻿@using Zoom.Models
+@model VMRecorridos
+@{
+    ViewBag.Title = "List";
+}
+    <body class="bodyRecorridos">
+
+        <div class="div1">
+            <h2 class="titulos">Lista de Recorridos</h2>
+
+            <table class="table table-hover" align="center">
+                <tr>
+                    <th>Nombre</th>
+                    <th>Duracion</th>
+                    <th>Cupo</th>
+                    <th>Precio</th>
+                    <th>Hora Ingreso</th>
+                    <th>Hora Egreso</th>
+                    <th>Fecha Inicio</th>
+                    <th>Fecha Final</th>
+                    <th>Puntos de Paseo</th>
+                    <th>Orden</th>
+
+                </tr>
+
+                @foreach (RecorridoMostrar recorrido in Model.Recorridos)
+                {
+                    <tr>
+                        <td>@recorrido.Nombre</td>
+                        <td>@recorrido.Duracion</td>
+                        <td>@recorrido.Cupo</td>
+                        <td>@recorrido.Precio</td>
+                        <td>@recorrido.Hora_ing</td>
+                        <td>@recorrido.Hora_egr</td>
+                        <td>@recorrido.Fecha_inicio</td>
+                        <td>@recorrido.Fecha_final</td>
+                        <td>@recorrido.PuntoPaseo</td>
+                        <td>@recorrido.Orden</td>
+                    </tr>
+
+
+                }
+            </table>
+        </div>
+        <button onclick="window.print()" class="btn-danger">Imprimir</button>
+    </body>

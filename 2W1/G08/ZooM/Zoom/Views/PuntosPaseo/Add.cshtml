@@ -1,0 +1,36 @@
+﻿@using Zoom.Models
+@model VMPuntos
+@{
+    ViewBag.Title = "Add";
+}
+<body class="bodyPuntos">
+    <div class="div1">
+        <h2 class="titulos">Agregar Punto de Paseo</h2>
+        @using (Html.BeginForm())
+        {
+    <table align="center">
+        <tr>
+            <td></td>
+            <td>@Html.HiddenFor(m => m.Punto.Id, new { @class = "form-control" })</td>
+        </tr>
+        <tr>
+            <td>Nombre</td>
+            <td>@Html.TextBoxFor(m => m.Punto.Nombre, new { @class = "form-control" , required="required", maxlength = 20 })</td>
+        </tr>
+        <tr>
+            <td>Descripcion</td>
+            <td>@Html.TextBoxFor(m => m.Punto.Descripcion, new { @class = "form-control",  required="required", maxlength = 140})</td>
+        </tr>
+
+        <tr>
+            <td>Disponible</td>
+            <td>@Html.CheckBoxFor(m => m.Punto.Disponible)</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td><input type="submit" id="btnAgregar" class="btn btn-danger" style="margin-top: 20px; margin-left: 50px" /></td>
+        </tr>
+    </table>
+        }
+    </div>
+</body>

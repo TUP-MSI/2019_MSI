@@ -1,0 +1,78 @@
+﻿@using Zoom.Models
+@model VMRecorridos
+
+@{
+    ViewBag.Title = "Add";
+}
+    <body class="bodyRecorridos">
+        <div class="div1">
+            <h2 class="titulos">Agregar Recorrido</h2>
+            @using (Html.BeginForm())
+            {
+
+                <table align="center">
+                    <tr>
+                        <td></td>
+                        <td>@Html.HiddenFor(m => m.Recorrido.Id)</td>
+                    </tr>
+                    <tr>
+                        <td>Nombre</td>
+                        <td>@Html.TextBoxFor(m => m.Recorrido.Nombre, new { @class = "form-control" , required="required" , maxlength = 40})</td>
+                    </tr>
+                    <tr>
+                        <td>Duracion</td>
+                        <td>@Html.TextBoxFor(m => m.Recorrido.Duracion, new { @class = "form-control", @type = "number", @min = "0" , required="required", maxlength = 3})</td>
+                    </tr>
+                    <tr>
+                        <td>Cupo</td>
+                        <td>@Html.TextBoxFor(m => m.Recorrido.Cupo, new { @class = "form-control", @type = "number", @min = "0",  required="required" , maxlength = 3})</td>
+                    </tr>
+                    <tr>
+                        <td>Precio</td>
+                        <td>@Html.TextBoxFor(m => m.Recorrido.Precio, new { @class = "form-control" , required="required" })</td>
+                    </tr>
+                    <tr>
+                        <td>Horario Ingreso</td>
+                        <td>@Html.TextBoxFor(m => m.Recorrido.Hora_ing, new { @class = "form-control", type= "time", required="required" })</td>
+                    </tr>
+                    <tr>
+                        <td>Horario Egreso</td>
+                        <td>@Html.TextBoxFor(m => m.Recorrido.Hora_egr, new { @class = "form-control", type= "time" , required="required" })</td>
+                    </tr>
+                    <tr>
+                        <td>Fecha Inicio</td>
+                        <td>@Html.TextBoxFor(m => m.Recorrido.Fecha_inicio,  new { @class = "form-control",  type = "date", required="required" })</td>
+                    </tr>
+                    <tr>
+                        <td>Fecha Final</td>
+                        <td>@Html.TextBoxFor(m => m.Recorrido.Fecha_final,  new { @class = "form-control",  type = "date", required="required" })</td>
+                    </tr>
+                    <tr>
+                        <td>Punto de Paseo Nro 1</td>
+                        <td>@Html.DropDownListFor(m => m.Recorrido.PuntoPaseo1.Id, new SelectList(Model.Puntos, "Id", "nombre"), new { @class = "form-control" , required="required" })</td>
+                    </tr>
+                    <tr>
+                        <td>Punto de Paseo Nro 2</td>
+                        <td>@Html.DropDownListFor(m => m.Recorrido.PuntoPaseo2.Id, new SelectList(Model.Puntos, "Id", "nombre"), new { @class = "form-control" })</td>
+                    </tr>
+                    <tr>
+                        <td>Punto de Paseo Nro 3</td>
+                        <td>@Html.DropDownListFor(m => m.Recorrido.PuntoPaseo3.Id, new SelectList(Model.Puntos, "Id", "nombre"), new { @class = "form-control" })</td>
+                    </tr>
+                    <tr>
+                        <td>Punto de Paseo Nro 4</td>
+                        <td>@Html.DropDownListFor(m => m.Recorrido.PuntoPaseo4.Id, new SelectList(Model.Puntos, "Id", "nombre"), new { @class = "form-control" })</td>
+                    </tr>
+                    <tr>
+                        <td>Punto de Paseo Nro 5</td>
+                        <td>@Html.DropDownListFor(m => m.Recorrido.PuntoPaseo5.Id, new SelectList(Model.Puntos, "Id", "nombre"), new { @class = "form-control" })</td>
+                    </tr>
+                    <tr>
+                        <td><input type="submit" id="btnAgregar" class="btn btn-danger" style="margin-top: 10px; margin-left: 200px"  /></td>
+                    </tr>
+                </table>
+            }
+        </div>
+
+    </body>
+

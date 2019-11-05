@@ -1,0 +1,32 @@
+﻿@using Zoom.Models
+@model VMReporte
+
+@{
+    ViewBag.Title = "Resport";
+}
+<body class="bodyRecorridos">
+
+    
+        <div class="div1">
+            <h2 class="text-center">Reporte Disponibles</h2>
+            @using (Html.BeginForm())
+            {
+                <table align="center">
+                    <tr>
+                        <td>Fecha Inicio</td>
+                        <td>@Html.TextBoxFor(m => m.Fecha_inicio, new { @class = "form-control", type = "date", required = "required" })</td>
+                    </tr>
+                    <tr>
+                        <td>Fecha Final</td>
+                        <td>@Html.TextBoxFor(m => m.Fecha_final, new { @class = "form-control", type = "date", required = "required" })</td>
+                    </tr>
+
+                    <tr>
+
+                        <td><br /> <input type="submit" id="btnAgregar" class="btn btn-primary center-block" /></td>
+                    </tr>
+                </table>
+            }
+        </div>
+    
+    </body>

@@ -18,7 +18,7 @@
 # Checklist de estado de actividad
 
 ## Pecha Kucha :clipboard:
-- [x] Entrega archivo ppt
+- [x] Entrega archivo ppt.
 - [x] Entrega link del video
 
 ## Trabajo Practico Entregas :clipboard:

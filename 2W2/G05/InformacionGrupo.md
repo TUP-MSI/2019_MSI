@@ -8,7 +8,7 @@
 
 | Legajo| Apellidos Nombres  | Cuenta GitHub | Linkedin
 | :------: | :-------- | :-------- | :-------- |
-| 110139 | Bracamonte, Gastón Federico |[elfen13](https://github.com/elfen13)|[-](-)|
+| 110139 | Bracamonte, Gastón F. |[elfen13](https://github.com/elfen13)|[-](-)|
 | 110316 | Chachagua, Vanina Daniela |[VaninaChachagua](https://github.com/VaninaChachagua)|[Vanina Chachagua](https://www.linkedin.com/in/vanina-chachagua-a92171142/)|
 | 110318 | Ferrufino, Mario Gastón |[MarioGasti](https://github.com/MarioGasti)|[Mario Gastón Ferrufino](https://www.linkedin.com/in/mario-gast%C3%B3n-f-9a8310170/)|
 | 110276 | Lambrecht, Franco Joel |[Kedash](https://github.com/Kedash)|[Franco Lambrecht](https://www.linkedin.com/in/franco-lambrecht-3a1731104/)|

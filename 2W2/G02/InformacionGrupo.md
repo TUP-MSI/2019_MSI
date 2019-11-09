@@ -25,7 +25,7 @@
 - [x] Entrega Primera Parte
 - [x] Entrega Segunda Parte
 - [x] Entrega Tercera Parte
-- [ ] Entrega Cuarta Parte
+- [x] Entrega Cuarta Parte
 
 ## Trello :clipboard:
 - [x] Capturas del tablero de Trello

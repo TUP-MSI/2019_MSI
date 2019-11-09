@@ -14,6 +14,7 @@
 | 110186 | Ramallo, Juan Manuel |[UsuarioGitHub](https://github.com/juanmafx)|[UserLinkedin](https://www.linkedin.com/in/juan-manuel-ramallo/)|
 | 108998 | Romero, Miguel Angel |[UsuarioGitHub](https://github.com/romanium89)|[UserLinkedin](https://www.linkedin.com/in/miguelangelrj/)|
 | 110366 | Lesta,Antonella |[aml2507]( https://github.com/aml2507 )|[Antonella Lesta]( https://www.linkedin.com/in/antonella-lesta/ )|
+| 109931 | Rosales, Xavier Eloy |[UsuarioGitHub](https://github.com/RosalesXavierEloy)|[UserLinkedin](https://www.linkedin.com/in/rosalesxaviereloy/)|
 
 
 # Checklist de estado de actividad

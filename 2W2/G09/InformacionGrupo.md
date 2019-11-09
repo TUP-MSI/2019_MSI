@@ -12,6 +12,7 @@
 | Legajo| Apellidos Nombres  | Cuenta GitHub | Linkedin
 | :------: | :-------- | :-------- | :-------- |
 | 110186 | Ramallo, Juan Manuel |[UsuarioGitHub](https://github.com/juanmafx)|[UserLinkedin](https://www.linkedin.com/in/juan-manuel-ramallo/)|
+| 107853 | Gonzalez, Carlos Sebastián |[UsuarioGitHub](https://github.com/sebagif)|[UserLinkedin](https://www.linkedin.com/in/carlos-sebastian-gonzalez/)|
 
 
 # Checklist de estado de actividad

@@ -18,14 +18,14 @@
 # Checklist de estado de actividad
 
 ## Pecha Kucha :clipboard:
-- [ ] Entrega archivo ppt
-- [ ] Entrega link del video
+- [✓] Entrega archivo ppt
+- [✓] Entrega link del video
 
 ## Trabajo Practico Entregas :clipboard:
-- [ ] Entrega Primera Parte
-- [ ] Entrega Segunda Parte
-- [X] Entrega Tercera Parte
-- [ ] Entrega Cuarta Parte
+- [✓] Entrega Primera Parte
+- [✓] Entrega Segunda Parte
+- [✓] Entrega Tercera Parte
+- [✓] Entrega Cuarta Parte
 
 ## Trello :clipboard:
 - [✓] Capturas del tablero de Trello

@@ -14,6 +14,7 @@
 | 110186 | Ramallo, Juan Manuel |[UsuarioGitHub](https://github.com/juanmafx)|[UserLinkedin](https://www.linkedin.com/in/juan-manuel-ramallo/)|
 | 107853 | Gonzalez, Carlos Sebastián |[UsuarioGitHub](https://github.com/sebagif)|[UserLinkedin](https://www.linkedin.com/in/carlos-sebastian-gonzalez/)|
 
+| 109931 | Rosales, Xavier Eloy |[UsuarioGitHub](https://github.com/RosalesXavierEloy)|[UserLinkedin](https://www.linkedin.com/in/rosalesxaviereloy/)|
 
 # Checklist de estado de actividad
 
@@ -29,3 +30,5 @@
 
 ## Trello :clipboard:
 - [✓] Capturas del tablero de Trello
+
+

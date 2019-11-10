@@ -18,6 +18,7 @@
 | 107853 | Gonzalez, Carlos Sebastián |[UsuarioGitHub](https://github.com/sebagif)|[UserLinkedin](https://www.linkedin.com/in/carlos-sebastian-gonzalez/)|
 
 
+
 # Checklist de estado de actividad
 
 ## Pecha Kucha :clipboard:

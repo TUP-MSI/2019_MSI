@@ -10,11 +10,11 @@
 
 | Legajo| Apellidos Nombres  | Cuenta GitHub | Linkedin
 | :------: | :-------- | :-------- | :-------- |
-| 109578 | Brito,Damian |[UsuarioGitHub](https://github.com/damianbrito)|
-| 108537 | Miguez, Pablo |[UsuarioGitHub](https://github.com/Pargun)|
-| 109516 | Gómez, Raúl |[UsuarioGitHub](https://github.com/PepeGz)|
-| 109727 | Bertone, Milton |[UsuarioGitHub](https://github.com/AlterDrop)|
-| 109726 | Bottero, Nicolas |[UsuarioGitHub](https://github.com/zer0cool28)|
+| 109578 | Brito, Damian |[UsuarioGitHub](https://github.com/damianbrito)|[UserLinkedin]|
+| 109727 | Bertone,Milton |[UsuarioGitHub](https://github.com/AlterDrop)|[https://www.linkedin.com/in/milton-bertone-157004152/|
+| 109726 | Bottero, Nicolás |[UsuarioGitHub](https://github.com/zer0cool28)|[UserLinkedin]|
+| 109516 | Gomez, Raul |[UsuarioGitHub](https://github.com/PepeGz)|[UserLinkedin]
+| 109516 | Miguez, Pablo David |[UsuarioGitHub](https://github.com/Pargun)|[UserLinkedin]
 
 # Checklist de estado de actividad
 

@@ -24,7 +24,7 @@
 ## Trabajo Practico Entregas :clipboard:
 - [x] Entrega Primera Parte
 - [x] Entrega Segunda Parte
-- [x] Entrega Tercera Parte
+- [ ] Entrega Tercera Parte
 - [ ] Entrega Cuarta Parte
 
 ## Trello :clipboard:

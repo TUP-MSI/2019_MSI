@@ -32,7 +32,7 @@
 - [x] Entrega Primera Parte
 - [x] Entrega Segunda Parte
 - [x] Entrega Tercera Parte
-- [x] Entrega Cuarta Parte
+- [ ] Entrega Cuarta Parte
 
 ## Trello :clipboard:
 - [x] Capturas del tablero de Trello

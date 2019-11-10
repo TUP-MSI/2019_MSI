@@ -1,4 +1,4 @@
-# Información del Grupo Nº [04] - [2W2]
+# Información del Grupo Nº [01] - [2W2]
 
 
 ## Nombre del Grupo :zap:
@@ -9,7 +9,7 @@
 ## Integrantes :busts_in_silhouette:
 
 | Legajo| Apellidos Nombres  | Cuenta GitHub | Linkedin
-| :------: | :-------- | :-------- | :-------- |
+| 110277 | Acuña Mateo gabriel | https://github.com/mateo568 | :-------- |
 | 110376 | Sosa Javier, Alejandro |[UsuarioGitHub](https://github.com/javier1905)|[UserLinkedin](https://www.linkedin.com/in/javieralejandrososa)|
 
 

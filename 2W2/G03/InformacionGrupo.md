@@ -1,9 +1,9 @@
 # Información del Grupo Nº [03] - [2W2]
 
 
-## Nombre del Grupo :DrinkTeam:
+## Nombre del Grupo :zap:
 
-
+* DrinkTeam
 
 
 ## Integrantes :busts_in_silhouette:
@@ -15,6 +15,7 @@
 | 109726 | Bottero, Nicolás |[UsuarioGitHub](https://github.com/zer0cool28)|[UserLinkedin]|
 | 109516 | Gomez, Raul |[UsuarioGitHub](https://github.com/PepeGz)|[UserLinkedin]
 | 109516 | Miguez, Pablo David |[UsuarioGitHub](https://github.com/Pargun)|[UserLinkedin]
+
 # Checklist de estado de actividad
 
 ## Pecha Kucha :clipboard:
@@ -26,14 +27,14 @@
 
 ### Segunda Presentacion
 
-- [ ] Entrega archivo ppt
-- [ ] Entrega link del video
+- [x] Entrega archivo ppt
+- [x] Entrega link del video
 
 ## Trabajo Practico Entregas :clipboard:
 - [x] Entrega Primera Parte
 - [x] Entrega Segunda Parte
-- [ ] Entrega Tercera Parte
-- [ ] Entrega Cuarta Parte
+- [x] Entrega Tercera Parte
+- [x] Entrega Cuarta Parte
 
 ## Trello :clipboard:
 - [x] Capturas del tablero de Trello

@@ -19,7 +19,7 @@
 ## Pecha Kucha :clipboard:
 - [x] Entrega  archivo ppt 1er Pechakucha
 
-- [] Entrega link del video
+- [ ] Entrega link del video
 - [x] Entrega archivo ppt 2do Pechakucha
 ## Trabajo Practico Entregas :clipboard:
 - [x] Entrega Primera Parte

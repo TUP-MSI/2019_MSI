@@ -11,6 +11,9 @@
 | Legajo| Apellidos Nombres  | Cuenta GitHub | Linkedin
 | :------: | :-------- | :-------- | :-------- |
 | 110376 | Sosa Javier, Alejandro |[UsuarioGitHub](https://github.com/javier1905)|[UserLinkedin](https://www.linkedin.com/in/javieralejandrososa)|
+| :------: | :-------- | :-------- | :-------- |
+| 110633 | Carmona Tamara, Gabriela |[UsuarioGitHub](https://github.com/TamaraCarmona)|[UserLinkedin](https://www.linkedin.com/in/tamara-gabriela-carmona-6164a9127)|
+
 
 
 # Checklist de estado de actividad

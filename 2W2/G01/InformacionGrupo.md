@@ -1,4 +1,4 @@
-# Información del Grupo Nº [04] - [2W2]
+﻿# Información del Grupo Nº [04] - [2W2]
 
 
 ## Nombre del Grupo :zap:
@@ -11,7 +11,7 @@
 | Legajo| Apellidos Nombres  | Cuenta GitHub | Linkedin
 | :------: | :-------- | :-------- | :-------- |
 | 110376 | Sosa Javier, Alejandro |[UsuarioGitHub](https://github.com/javier1905)|[UserLinkedin](https://www.linkedin.com/in/javieralejandrososa)|
-
+| 105111 | Ramos Noelia | [UsuarioGitHub] (https://github.com/nramos-105111) | [UserLinkedin](https://www.linkedin.com/in/noelia-ramos-1109/)|
 
 # Checklist de estado de actividad
 
@@ -19,19 +19,19 @@
 
 ### Primera Presentacion
 
-- [x] Entrega archivo ppt
+- [] Entrega archivo ppt
 - [x] Entrega link del video
 
 ### Segunda Presentacion
 
-- [ ] Entrega archivo ppt
-- [ ] Entrega link del video
+- [x] Entrega archivo ppt
+- [x] Entrega link del video
 
 ## Trabajo Practico Entregas :clipboard:
 - [x] Entrega Primera Parte
 - [x] Entrega Segunda Parte
-- [ ] Entrega Tercera Parte
-- [ ] Entrega Cuarta Parte
+- [x] Entrega Tercera Parte
+- [x] Entrega Cuarta Parte
 
 ## Trello :clipboard:
 - [x] Capturas del tablero de Trello

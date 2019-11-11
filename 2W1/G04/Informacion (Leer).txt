@@ -1,0 +1,18 @@
+Grupo: 06
+Nombre Grupo: GuideForZoo
+
+Integrantes------
+
+legajo	 nombre   
+109742   Genaizir Ricardo
+109741	 Borsalino Federico
+105910   Baldini Roberto
+
+Trabajo Practico GuideForZoo ----
+primera parte (documentacion)
+segunda parte (documentacion)
+tercera parte (UML)
+cuarta  Parte (entregable)
+
+trello----
+capturas de pantalla

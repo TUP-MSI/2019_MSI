@@ -17,15 +17,15 @@
 # Checklist de estado de actividad
 
 ## Pecha Kucha :clipboard:
-- [ ] Entrega archivo ppt
+- [x] Entrega  archivo ppt 1er Pechakucha
 
 - [ ] Entrega link del video
-
+- [x] Entrega archivo ppt 2do Pechakucha
 ## Trabajo Practico Entregas :clipboard:
-- [ ] Entrega Primera Parte
-- [ ] Entrega Segunda Parte
-- [ ] Entrega Tercera Parte
-- [ ] Entrega Cuarta Parte
+- [x] Entrega Primera Parte
+- [x] Entrega Segunda Parte
+- [x] Entrega Tercera Parte
+- [x] Entrega Cuarta Parte
 
 ## Trello :clipboard:
-- [ ] Capturas del tablero de Trello
+- [x] Capturas del tablero de Trello
